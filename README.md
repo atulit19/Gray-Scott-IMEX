@@ -1,2 +1,2 @@
-# Gray-Scott-IMEX
-IMEX2D
+# Gray-Scott-Reaction-Diffusion
+IMEX-2D
